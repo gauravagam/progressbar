@@ -1,0 +1,11 @@
+h1, p {
+  font-family: Lato;
+}
+
+.progress-bar{
+    position: relative;
+    height:16px;
+	border-radius: 10px;
+    background-color: #F4F4F4;
+    /* border:1px solid #333; */
+}
